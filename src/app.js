@@ -4,7 +4,7 @@ let dolarDun=9.20
 let dolarBugun=9.30
 
 {
-
+    
 }
 
 console.log(dolarDun)
@@ -22,3 +22,8 @@ for (let i = 0; i < konutKredileri.length; i++) {
 }
 
 console.log("</ul>")
+
+
+
+
+
